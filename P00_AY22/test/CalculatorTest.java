@@ -7,7 +7,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 public class CalculatorTest {
-
+// Make changes
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
 	}
