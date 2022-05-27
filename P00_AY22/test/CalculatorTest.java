@@ -7,7 +7,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 public class CalculatorTest {
-// Make changes 27 May 2022
+// Make changes 27 May 2022 new
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
 	}
